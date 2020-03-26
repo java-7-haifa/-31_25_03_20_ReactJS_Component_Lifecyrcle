@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.container{
+  max-width: 900px;
+  margin: 50px auto;
+  display: flex;
+}
+
+.contact-list{
+  width: 50%;
+}
+
+.contact-view{
+  width: 50%;
+}
